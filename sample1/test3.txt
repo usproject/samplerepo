@@ -1,9 +1,7 @@
 new file is added
 checking for new updates
 modifying an existing relationship between two tickets.
-
-  
-
+GUI is used for testing
 testing stash 
 checking cherry-picK  
 
