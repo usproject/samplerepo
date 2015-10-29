@@ -1,3 +1,4 @@
 new text file is created in the name of test2.txt
 managing, modifying and copying relationships
+GUI is tested
  
