@@ -10,4 +10,4 @@ password issues are fixed
 working 
 works cool
 Testing for jenkins
- 
+automated 
